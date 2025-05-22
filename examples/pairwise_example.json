@@ -1,0 +1,14 @@
+[
+    {
+        "question": "How many people are in the picture?",
+        "image_path": "path/to/image",
+        "response_A": {
+            "text": "2",
+            "source": "model_a"
+        },
+        "response_B": {
+            "text": "There are two people in the picture: a young girl and a man who appears to be much smaller due to the perspective and distance.",
+            "source": "model_b"
+        }
+    }
+]
